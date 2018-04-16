@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("developer 1")
+        print("new feature")
         // Do any additional setup after loading the view, typically from a nib.
     }
 

@@ -10,5 +10,6 @@ import Foundation
 class newFeature {
     func fun1() {
         print("feature 1")
+        print("change feature")
     }
 }
