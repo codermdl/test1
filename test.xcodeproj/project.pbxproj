@@ -17,6 +17,7 @@
 		40DC2E6E2079CC6600D5C4E9 /* testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40DC2E6D2079CC6600D5C4E9 /* testTests.swift */; };
 		40DC2E792079CC6600D5C4E9 /* testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40DC2E782079CC6600D5C4E9 /* testUITests.swift */; };
 		40DC2E872079D19500D5C4E9 /* aa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40DC2E862079D19500D5C4E9 /* aa.swift */; };
+		40F2B52C20844B9C0072F634 /* newfeature1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F2B52B20844B9C0072F634 /* newfeature1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		40DC2E782079CC6600D5C4E9 /* testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testUITests.swift; sourceTree = "<group>"; };
 		40DC2E7A2079CC6700D5C4E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		40DC2E862079D19500D5C4E9 /* aa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aa.swift; sourceTree = "<group>"; };
+		40F2B52B20844B9C0072F634 /* newfeature1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newfeature1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				40DC2E5F2079CC6600D5C4E9 /* Assets.xcassets */,
 				40DC2E612079CC6600D5C4E9 /* LaunchScreen.storyboard */,
 				40DC2E642079CC6600D5C4E9 /* Info.plist */,
+				40F2B52A20844B780072F634 /* newfeature */,
 			);
 			path = test;
 			sourceTree = "<group>";
@@ -132,6 +135,14 @@
 				40DC2E7A2079CC6700D5C4E9 /* Info.plist */,
 			);
 			path = testUITests;
+			sourceTree = "<group>";
+		};
+		40F2B52A20844B780072F634 /* newfeature */ = {
+			isa = PBXGroup;
+			children = (
+				40F2B52B20844B9C0072F634 /* newfeature1.swift */,
+			);
+			path = newfeature;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -267,6 +278,7 @@
 			files = (
 				409F42DA20843FAC00FCDD33 /* developer_1_2.swift in Sources */,
 				40DC2E5B2079CC6500D5C4E9 /* ViewController.swift in Sources */,
+				40F2B52C20844B9C0072F634 /* newfeature1.swift in Sources */,
 				409F42D820843F6200FCDD33 /* developer_1.swift in Sources */,
 				40DC2E592079CC6500D5C4E9 /* AppDelegate.swift in Sources */,
 			);
