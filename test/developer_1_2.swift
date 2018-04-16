@@ -8,5 +8,7 @@
 
 import Foundation
 class test1: NSObject {
-    
+    func func1() -> Void {
+        print("developer ...1.2")
+    }
 }
