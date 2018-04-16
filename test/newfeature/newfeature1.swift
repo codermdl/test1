@@ -1,5 +1,5 @@
 //
-//  developer_1_1.swift
+//  newfeature1.swift
 //  test
 //
 //  Created by dongli mei on 2018/4/16.
@@ -7,9 +7,9 @@
 //
 
 import Foundation
-class test1: NSObject {
-    func func1() -> Void {
-        print("developer ...1.2")
-        print("继续工作1")
+class newFeature {
+    func fun1() {
+        print("feature 1")
+        print("change feature")
     }
 }
